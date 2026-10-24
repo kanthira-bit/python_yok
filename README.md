@@ -1,1 +1,1 @@
-# pytion_yok
+# python_yok
